@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.3] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.3.aar\dabd655d47cdaea51c608404df852b0d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\c70e8ae809493cf229f78f26aa4fde5a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:mediarouter-v7:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-28.0.0.aar\ce992663ff53372a0a516da75144e5c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e773fdba68f7f8dcd7393960a69ac5c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\517751ebac0bf49783b0f36b67f121f9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\1589620ddb92e2ed00cf04e4b03b4b94\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\811255cc6ab282599e62e4d0845d7266\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\77cebc2bd5a4b47b42c99b7ea772c14c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b0bfbe019853f730e89fb244292e932a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\85b49a673dae1866d2ff30e907990a9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\palette-v7-28.0.0.aar\a1198448f996b2c16e3117d5f92130a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\58b8bfc437374acb5dd74c28512b7164\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\08a2550660f158752dba7151e4114c24\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\f389745aa787317dc1687838f20ecc7a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\da701e70ca9409799b4136ff6c2c943b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5053965e990b844c5500eda42e1332e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c45af8e9f6aed298e74185e70885cb87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\bd2b58d008b727467ad167ce9d0635e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\4b2f0d7bb9c45998c9bf2014a9131bad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1ed0ec24820cd73441f5ba0c61b2dcca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\eec0fdc843bca6d4aacd390c0bcdf675\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1eba8d374345afd5a1bde18c0d12b134\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\193efc33b1ab1dd568b33c3fb1532b19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f0dd41cbeb6fc890c831ddba5b64f554\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\21d50d6bfb669a0c8099d90a78e9cecc\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d40e44e74ef8df31891aa56531ad0681\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\70ffd6ff5b30dcc6ba412008cafc9d3a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d10798eaf34920caaa1a61dd415ba781\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b01ee90c91ccdb57a1e3f62717fd3f84\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a45b5e3d788f5ea5e24dc4ba2b83f7ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\561980329a037e671a843d6e076505c1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2ebd903add5a11734351265972a31c46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5fb0229f1b2def961243c90faa120aec\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\499bc93f85868e431d14980c93a2008a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d0d827abf752e51a675b79b04c88538b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\85c7a66bd3856de9ebe001ddc79d2f62\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.Access_NETWORK_STATE
+ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.Access_WIFI_STATE
+ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:9:5-31:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\c70e8ae809493cf229f78f26aa4fde5a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\c70e8ae809493cf229f78f26aa4fde5a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\517751ebac0bf49783b0f36b67f121f9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\517751ebac0bf49783b0f36b67f121f9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f0dd41cbeb6fc890c831ddba5b64f554\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f0dd41cbeb6fc890c831ddba5b64f554\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\21d50d6bfb669a0c8099d90a78e9cecc\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\21d50d6bfb669a0c8099d90a78e9cecc\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f0dd41cbeb6fc890c831ddba5b64f554\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:15:9-68
+activity#com.example.khoweisyen.mymusicapp.Music
+ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:16:19-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.khoweisyen.mymusicapp.MainActivity
+ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:23:9-25:59
+	android:theme
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:24:13-41
+activity#com.example.khoweisyen.mymusicapp.youtube
+ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:26:9-45
+	android:name
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:26:19-42
+activity#com.example.khoweisyen.mymusicapp.playlist
+ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:27:9-46
+	android:name
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:27:19-43
+activity#com.example.khoweisyen.mymusicapp.songfolder
+ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:28:9-48
+	android:name
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:28:19-45
+activity#com.example.khoweisyen.mymusicapp.Youtube2
+ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:29:9-46
+	android:name
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:29:19-43
+activity#com.example.khoweisyen.mymusicapp.theme
+ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:30:9-52
+	android:name
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml:30:19-40
+uses-sdk
+INJECTED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.3] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.3.aar\dabd655d47cdaea51c608404df852b0d\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.3] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.3.aar\dabd655d47cdaea51c608404df852b0d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\c70e8ae809493cf229f78f26aa4fde5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\c70e8ae809493cf229f78f26aa4fde5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-28.0.0.aar\ce992663ff53372a0a516da75144e5c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-28.0.0.aar\ce992663ff53372a0a516da75144e5c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e773fdba68f7f8dcd7393960a69ac5c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e773fdba68f7f8dcd7393960a69ac5c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\517751ebac0bf49783b0f36b67f121f9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\517751ebac0bf49783b0f36b67f121f9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\1589620ddb92e2ed00cf04e4b03b4b94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\1589620ddb92e2ed00cf04e4b03b4b94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\811255cc6ab282599e62e4d0845d7266\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\811255cc6ab282599e62e4d0845d7266\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\77cebc2bd5a4b47b42c99b7ea772c14c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\77cebc2bd5a4b47b42c99b7ea772c14c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b0bfbe019853f730e89fb244292e932a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b0bfbe019853f730e89fb244292e932a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\85b49a673dae1866d2ff30e907990a9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\85b49a673dae1866d2ff30e907990a9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\palette-v7-28.0.0.aar\a1198448f996b2c16e3117d5f92130a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\palette-v7-28.0.0.aar\a1198448f996b2c16e3117d5f92130a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\58b8bfc437374acb5dd74c28512b7164\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\58b8bfc437374acb5dd74c28512b7164\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\08a2550660f158752dba7151e4114c24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\08a2550660f158752dba7151e4114c24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\f389745aa787317dc1687838f20ecc7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\f389745aa787317dc1687838f20ecc7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\da701e70ca9409799b4136ff6c2c943b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\da701e70ca9409799b4136ff6c2c943b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5053965e990b844c5500eda42e1332e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5053965e990b844c5500eda42e1332e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c45af8e9f6aed298e74185e70885cb87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c45af8e9f6aed298e74185e70885cb87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\bd2b58d008b727467ad167ce9d0635e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\bd2b58d008b727467ad167ce9d0635e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\4b2f0d7bb9c45998c9bf2014a9131bad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\4b2f0d7bb9c45998c9bf2014a9131bad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1ed0ec24820cd73441f5ba0c61b2dcca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1ed0ec24820cd73441f5ba0c61b2dcca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\eec0fdc843bca6d4aacd390c0bcdf675\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\eec0fdc843bca6d4aacd390c0bcdf675\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1eba8d374345afd5a1bde18c0d12b134\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1eba8d374345afd5a1bde18c0d12b134\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\193efc33b1ab1dd568b33c3fb1532b19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\193efc33b1ab1dd568b33c3fb1532b19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f0dd41cbeb6fc890c831ddba5b64f554\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f0dd41cbeb6fc890c831ddba5b64f554\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\21d50d6bfb669a0c8099d90a78e9cecc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\21d50d6bfb669a0c8099d90a78e9cecc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d40e44e74ef8df31891aa56531ad0681\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d40e44e74ef8df31891aa56531ad0681\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\70ffd6ff5b30dcc6ba412008cafc9d3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\70ffd6ff5b30dcc6ba412008cafc9d3a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d10798eaf34920caaa1a61dd415ba781\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d10798eaf34920caaa1a61dd415ba781\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b01ee90c91ccdb57a1e3f62717fd3f84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b01ee90c91ccdb57a1e3f62717fd3f84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a45b5e3d788f5ea5e24dc4ba2b83f7ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a45b5e3d788f5ea5e24dc4ba2b83f7ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\561980329a037e671a843d6e076505c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\561980329a037e671a843d6e076505c1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2ebd903add5a11734351265972a31c46\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2ebd903add5a11734351265972a31c46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5fb0229f1b2def961243c90faa120aec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5fb0229f1b2def961243c90faa120aec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\499bc93f85868e431d14980c93a2008a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\499bc93f85868e431d14980c93a2008a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d0d827abf752e51a675b79b04c88538b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d0d827abf752e51a675b79b04c88538b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\85c7a66bd3856de9ebe001ddc79d2f62\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kho Wei Syen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\85c7a66bd3856de9ebe001ddc79d2f62\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kho Wei Syen\AndroidStudioProjects\MyMusicApp\app\src\main\AndroidManifest.xml
